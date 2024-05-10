@@ -1,0 +1,4 @@
+name: "Builder"
+appmap_dir: "tmp/appmap"
+packages:
+- path: "org.example"
